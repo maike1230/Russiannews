@@ -13,7 +13,7 @@
     <h1>НОВАСТИ</h1>
   </header>
   <nav><a href="https://maike1230.github.io/-/">УКРАИНА</a> | <a href="https://maike1230.github.io/-/">РАССИЯ</a> |
-       <a href="https://maike1230.github.io/kyrgyzystan/">КЫРГЫЗЫСТАН</a> | <ahref="https://maike1230.github.io/USA/">АМЕРИКА</a></nav>
+       <a href="https://maike1230.github.io/USA/">КЫРГЫЗЫСТАН</a> | <ahref="https://maike1230.github.io/USA/">АМЕРИКА</a></nav>
   <article>
     
     
