@@ -114,7 +114,7 @@ Pro
 Очень плохой прогноз: как дефицит импортных метеоприборов бьет по бизнесу
 Прогнозы
 
-img src=”https://cdn.dribbble.com/users/24078/screenshots/14365732/24-01_4x.jpg” width=”20” height=”20”>
+img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAomcSiRkc1g9vBo29r2VydtOKOxQSU_7S5Q&usqp=CAU" width="20" height="20">
 
 Pro
 Движение назад: почему Netflix переходит к бизнес-модели кабельного ТВ
