@@ -4,12 +4,7 @@
   <article>
     <h2>Добро пожаловать!</h2>
   </article>
- </body> 
  
- <img src="https://www.tvbox.one/wp-content/uploads/2021/11/movielab.jpg" alt="фильмы бесплатно"><a>MOVIELAB WEB
- 
- 
-
   <meta charset="utf-8">
  </head> 
  <body>
