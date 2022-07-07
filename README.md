@@ -1,7 +1,16 @@
-  <main>
+  <head>
+  <meta charset="utf-8">
+  <title>Фон</title>
   <style>
-  body { background: url(C:\Users\Satan\Pictures\Camera Roll); }
-</style>
+   body {
+    background: #c7b39b url(images/bg.jpg); /* #FF4500 */
+    color: #fff; /* #00FF7F */
+   }
+  </style>
+ </head>
+ <body>
+  <p>...</p>
+ </body>
 <h1>НОВЫЕ НОВАСТИ</h1>
   <article>
     <h2>Добро пожаловать!</h2>
