@@ -8,8 +8,8 @@
  <body>
     <h1>НОВАСТИ</h1>
    
-  <nav><a href="https://maike1230.github.io/-/">УКРАИНА</a> | <a href="https://maike1230.github.io/-/">РАССИЯ</a> |
-       <a href="https://maike1230.github.io/kyrgyzystan/">КЫРГЫЗЫСТАН</a> | <a href="https://maike1230.github.io/USA/">АМЕРИКА</a></nav>
+  <h1><nav><a href="https://maike1230.github.io/-/">УКРАИНА</a> | <a href="https://maike1230.github.io/-/">РАССИЯ</a> |
+       <a href="https://maike1230.github.io/kyrgyzystan/">КЫРГЫЗЫСТАН</a> | <a href="https://maike1230.github.io/USA/">АМЕРИКА</a></nav></h1>
 
   <p>ЕС и НАТО формируют коалицию для войны с Россией, заявил министр иностранных дел Сергей Лавров на пресс-конференции по итогам переговоров с главой МИД Азербайджана Джейхуном Байрамовым.
 
