@@ -3,7 +3,7 @@
   <title>Фон</title>
   <style>
    body {
-    background: #c7b39b url(images/bg.jpg); /* #FF4500 */
+    background: #FF4500 url(images/bg.jpg); /* #FF4500 http://vovkasolovev.ru/kraski/signal.jpg */
     color: #fff; /* #00FF7F */
    }
   </style>
