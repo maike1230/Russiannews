@@ -4,6 +4,22 @@
     <h2>Добро пожаловать!</h2>
   </article>
   
+  <table>
+        <tr>
+            <td>долар</td>
+            <td>евро</td>
+            <td>украина</td>        
+        </tr>
+        <tr>
+            <td>82,38</td>
+            <td>83,69</td>
+            <td>2,79</td>
+        </tr>
+            <td></td>
+            <td></td>
+            <td></td>
+    </table>
+  
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAomcSiRkc1g9vBo29r2VydtOKOxQSU_7S5Q&usqp=CAU" width="100"
     height="100" alt="24 ЧАСА НОВАСТИ">
   
