@@ -4,6 +4,9 @@
     <h2>Добро пожаловать!</h2>
   </article>
   
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAomcSiRkc1g9vBo29r2VydtOKOxQSU_7S5Q&usqp=CAU" width="350"
+    height="250" alt="24 ЧАСА НОВАСТИ">
+  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAomcSiRkc1g9vBo29r2VydtOKOxQSU_7S5Q&usqp=CAU">
  
   <meta charset="utf-8">
