@@ -6,18 +6,21 @@
   
   <table>
         <tr>
+            <td>курс</td>
             <td>долар</td>
             <td>евро</td>
             <td>украина</td>        
         </tr>
         <tr>
+            <td>cом</td>
             <td>82,38</td>
             <td>83,69</td>
             <td>2,79</td>
         </tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>рублю</td>
+            <td>63,08</td>
+            <td>64,08</td>
+            <td>2,14</td>
     </table>
   
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAomcSiRkc1g9vBo29r2VydtOKOxQSU_7S5Q&usqp=CAU" width="100"
