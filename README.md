@@ -1,4 +1,7 @@
   <main>
+  <style>
+  body { background: url(img_0784); }
+</style>
 <h1>НОВЫЕ НОВАСТИ</h1>
   <article>
     <h2>Добро пожаловать!</h2>
