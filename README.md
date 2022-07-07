@@ -24,6 +24,14 @@
     </table>
  <body>
     <h1>НОВАСТИ</h1>
+   <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>https://www.youtube.com/watch?v=ktcZjZLME-s</title>
+ </head>
+ <body>
+   <p><a href="https://www.youtube.com/watch?v=ktcZjZLME-s"><img src="https://imgtest.mir24.tv/images/mir_24_main_logo.png" width="50" 
+   height="50" border="0" alt="Пример"></a></p>
+ </body> 
    
   <h1><nav><a href="https://maike1230.github.io/-/">УКРАИНА</a> | <a href="https://maike1230.github.io/-/">РАССИЯ</a> |
        <a href="https://maike1230.github.io/kyrgyzystan/">КЫРГЫЗЫСТАН</a> | <a href="https://maike1230.github.io/USA/">АМЕРИКА</a></nav></h1>
@@ -134,5 +142,4 @@ Pro
 
 С августа 2014 года в Йемене идет конфликт между правительст
      <footer>
-      <h1>наш номер +123 456 789 012</h1>
-      <a href="https://www.youtube.com/watch?v=ktcZjZLME-s"><img scr ="https://imgtest.mir24.tv/images/mir_24_main_logo.png"></a>
+      <h1>это наш номер 100% +123 456 789 012</h1>
