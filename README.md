@@ -4,8 +4,8 @@
     <h2>Добро пожаловать!</h2>
   </article>
   
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAomcSiRkc1g9vBo29r2VydtOKOxQSU_7S5Q&usqp=CAU" width="50"
-    height="50" alt="24 ЧАСА НОВАСТИ">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAomcSiRkc1g9vBo29r2VydtOKOxQSU_7S5Q&usqp=CAU" width="100"
+    height="100" alt="24 ЧАСА НОВАСТИ">
   
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAomcSiRkc1g9vBo29r2VydtOKOxQSU_7S5Q&usqp=CAU">
  
