@@ -5,8 +5,8 @@
   <article>
     <h2>Добро пожаловать!</h2>
      <main>
-       <h1> 
-  </main>МИР 24
+       <h1>МИР 24 
+  </main>
   <table>
         <tr>
             <td>курс</td>
@@ -29,7 +29,7 @@
     <h1>НОВАСТИ</h1>
    <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>https://www.youtube.com/watch?v=ktcZjZLME-s</title>
+ 
  </head>
  <body>
    <p><a href="https://www.youtube.com/watch?v=ktcZjZLME-s"><img src="https://imgtest.mir24.tv/images/mir_24_main_logo.png" width="50" 
