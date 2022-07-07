@@ -6,9 +6,8 @@
   </article>
  
   <meta charset="utf-8">
- </head> 
+ </headr> 
  <body>
-  <header>
     <h1>НОВАСТИ</h1>
   </header>
   <nav><a href="https://maike1230.github.io/-/">УКРАИНА</a> | <a href="https://maike1230.github.io/-/">РАССИЯ</a> |
