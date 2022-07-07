@@ -135,4 +135,4 @@ Pro
 С августа 2014 года в Йемене идет конфликт между правительст
      <footer>
       <h1>наш номер +123 456 789 012</h1>
-      <a href="https://www.youtube.com/watch?v=ktcZjZLME-s"><img scr ="https://imgtest.mir24.tv/images/mir_24_main_logo.png">
+      <a href="https://www.youtube.com/watch?v=ktcZjZLME-s"><img scr ="https://imgtest.mir24.tv/images/mir_24_main_logo.png"></a>
