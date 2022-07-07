@@ -1,6 +1,6 @@
   <main>
   <style>
-  body { background: url(img_0784); }
+  body { background: url(C:\Users\Satan\Pictures\Camera Roll); }
 </style>
 <h1>НОВЫЕ НОВАСТИ</h1>
   <article>
