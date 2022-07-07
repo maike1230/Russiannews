@@ -1,4 +1,6 @@
 <html>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAomcSiRkc1g9vBo29r2VydtOKOxQSU_7S5Q&usqp=CAU" width="100"
+    height="100" alt="24 ЧАСА НОВАСТИ">
 <h1>НОВЫЕ НОВАСТИ</h1>
   <article>
     <h2>Добро пожаловать!</h2>
@@ -22,11 +24,6 @@
             <td>64,08</td>
             <td>2,14</td>
     </table>
-  
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAomcSiRkc1g9vBo29r2VydtOKOxQSU_7S5Q&usqp=CAU" width="100"
-    height="100" alt="24 ЧАСА НОВАСТИ">
- 
-  <meta charset="utf-8">
  <body>
     <h1>НОВАСТИ</h1>
    
