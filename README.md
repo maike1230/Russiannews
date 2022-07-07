@@ -1,12 +1,10 @@
   <main>
 <h1>НОВЫЕ НОВАСТИ</h1>
-<headr>
   <article>
     <h2>Добро пожаловать!</h2>
   </article>
  
   <meta charset="utf-8">
- </headr> 
  <body>
     <h1>НОВАСТИ</h1>
    
