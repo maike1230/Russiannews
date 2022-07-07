@@ -1,11 +1,4 @@
-  <head>
-  <meta charset="utf-8">
-  <title>Фон</title>
-  <style>
-   body {
-    background: #FF4500 url(images/bg.jpg); /* #FF4500 http://vovkasolovev.ru/kraski/signal.jpg */
-    color: #fff; /* #00FF7F */
-   }
+<html>
   </style>
  </head>
  <body>
@@ -138,3 +131,4 @@ Pro
 Подробнее на РБК:">
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAomcSiRkc1g9vBo29r2VydtOKOxQSU_7S5Q&usqp=CAU">
+     </html>
